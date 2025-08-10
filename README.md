@@ -29,3 +29,7 @@
 <hr />
 
 ## 5. <a name="supplemental">Supplemental Resources</a>
+
+* [AI Architecture Model Overview Guide](https://github.com/chaseofthejungle/AI-Architecture-Model-Overview)
+* [Agentic AI and AI Agents Overview Guide](https://github.com/chaseofthejungle/agentic-ai-and-ai-agents-overview)
+* [Google Developers Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
