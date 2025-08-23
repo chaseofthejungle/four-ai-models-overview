@@ -37,6 +37,16 @@ Gen AI can be mapped out in terms of seven steps:
 
 *AI Agents* are structured around task/process goal-driven actions and intentions, branching beyond being simple prompt-response mechanisms. They use bult-in logic to determine users' objectives, gather data/results, and select APIs and other AI tools that make sense for problem solving.
 
+AI Agents can be mapped out in terms of seven steps:
+
+1) **A Task/Process is Triggered**
+2) **The Intention/Goal of the Task is Detected**
+3) **The Model or Rule is Executed**
+4) **An API or Other AI Tool is Called**
+5) **A Result/Output is Generated**
+6) **The Response is Handled**
+7) **The Task/Process is Logged**
+
 <hr />
 
 ## 4. <a name="agentic">Agentic AIs</a>
