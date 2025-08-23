@@ -2,7 +2,7 @@
 
 #### Table of Contents
 
-1. [AI Stack](#aistack)
+1. [Model Types as an AI Stack](#aistack)
 2. [Generative AIs](#generative)
 3. [AI Agents](#aiagents)
 4. [Agentic AIs](#agentic)
@@ -11,9 +11,14 @@
 
 <hr />
 
-## 1. <a name="aistack">AI Stack</a>
+## 1. <a name="aistack">Model Types as an AI Stack</a>
 
-(TODO)
+It is important to note that Generative AI, AI Agents, Agentic AI, and Large Language Models (LLMs) are more than distinct AI model types--they are layers of AI that should be comprehended both distinctly and as part of a united whole.
+
+* **LLMs** provide the **Generative AI** (Gen AI) foundational engines for generating content.
+* These two models establish a foundation for **AI Agents**, which participate in task and goal oriented behavior via API/tool implementation.
+* **Agentic AIs** promote autonomy, complex (multiple step) logical reasoning, and independent correction mechanisms for achieving target outcomes. 
+* This allows LLMs to support Generative AI, which promote the logical decision-making of AI Agents and the autonomy of Agentic AI. 
 
 <hr />
 
