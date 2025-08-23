@@ -19,7 +19,17 @@
 
 ## 2. <a name="generative">Generative AIs</a>
 
-*Generative AIs* do not quite have independence, but they can take input and associated predictions and generate information from them by recognizing patterns and operating with consideration of latent spaces.
+*Generative AIs* (Gen AIs) do not quite have independence, but they can take input and associated predictions and generate information from them by recognizing patterns and operating with consideration of latent spaces.
+
+Gen AI can be mapped out in terms of seven steps:
+
+1) **Collecting Input/Initial Data**
+2) **Featuring Mapping** (transforming the data into a format that Gen AI models can use to generate new content)
+3) **Pattern Identification and Learning**
+4) **Content Creation**
+5) **Adaptation** (taking into consideration what was learned and relevant predictions)
+6) **Output Generation**
+7) **Feedback from Users**
 
 <hr />
 
