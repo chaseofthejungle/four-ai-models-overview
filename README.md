@@ -27,7 +27,17 @@ It is important to note that Generative AI, AI Agents, Agentic AI, and Large Lan
 *LLMs* provide the foundational, fundamental engine and operating potential for complex AI systems. They are core-level, multi-functional, contextual, and computational pattern recognizing engines, performing a variety of tasks (e.g., neural inferencing/predicting of next likely tokens for text generation, context building, text tokenization, embedding).
 
 The 'catch'? Although LLMs can generate text fluently and actively, they do not provide artificial comprehension of intentions, meanings, and goals/outcomes. These are provided by other AI layers...
- 
+
+LLMs can be mapped out in terms of seven steps:
+
+1) **Selecting a Cloud Services Provider**
+2) **Tokenizing and Embedding**
+3) **Studying Context**
+4) **Neural Inferencing**
+5) **Predicting of Next Likely Tokens**
+6) **Generating Output**
+7) **Sending a Response**
+
 <hr />
 
 ## 3. <a name="generative">Generative AIs</a>
