@@ -3,10 +3,10 @@
 #### Table of Contents
 
 1. [Model Types as an AI Stack](#aistack)
-2. [Generative AIs](#generative)
-3. [AI Agents](#aiagents)
-4. [Agentic AIs](#agentic)
-5. [Large Language Models (LLMs)](#llm)
+2. [Large Language Models (LLMs): Providing the Fundamentals](#llm)
+3. [Generative AIs](#generative)
+4. [AI Agents](#aiagents)
+5. [Agentic AIs](#agentic)
 6. [Supplemental Resources](#supplemental)
 
 <hr />
@@ -22,7 +22,15 @@ It is important to note that Generative AI, AI Agents, Agentic AI, and Large Lan
 
 <hr />
 
-## 2. <a name="generative">Generative AIs</a>
+## 2. <a name="llm">Large Language Models (LLMs): Providing the Fundamentals</a>
+
+*LLMs* provide the foundational, fundamental engine and operating potential for complex AI systems. They are core-level, multi-functional, contextual, and computational pattern recognizing engines, performing a variety of tasks (e.g., neural inferencing/predicting of next likely tokens for text generation, context building, text tokenization, embedding).
+
+The 'catch'? Although LLMs can generate text fluently and actively, they do not provide artificial comprehension of intentions, meanings, and goals/outcomes. These are provided by other AI layers...
+ 
+<hr />
+
+## 3. <a name="generative">Generative AIs</a>
 
 *Generative AIs* (Gen AIs) do not quite have independence, but they can take input and associated predictions and generate information from them by recognizing patterns and operating with consideration of latent spaces.
 
@@ -38,7 +46,7 @@ Gen AI can be mapped out in terms of seven steps:
 
 <hr />
 
-## 3. <a name="aiagents">AI Agents</a>
+## 4. <a name="aiagents">AI Agents</a>
 
 *AI Agents* are structured around task/process goal-driven actions and intentions, branching beyond being simple prompt-response mechanisms. They use bult-in logic to determine users' objectives, gather data/results, and select APIs and other AI tools that make sense for problem solving.
 
@@ -54,15 +62,9 @@ AI Agents can be mapped out in terms of seven steps:
 
 <hr />
 
-## 4. <a name="agentic">Agentic AIs</a>
+## 5. <a name="agentic">Agentic AIs</a>
 
 *Agentic AIs* emulate autonomous reasoning, and thus are quite complex: they plan and reach decisions (without human intervention) based on goals/outcomes, change course of action/strategy, artificially comprehend context and constraints/limits, and instantly orchestrate other AI tools.
-
-<hr />
-
-## 5. <a name="llm">Large Language Models (LLMs)</a>
-
-*LLMs* are core-level, multi-functional, contextual and computational engines, performing a variety of tasks such as: neural inferencing/predicting, tokenization, and embedding.
 
 <hr />
 
