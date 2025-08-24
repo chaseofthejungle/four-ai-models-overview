@@ -4,7 +4,7 @@
 
 1. [Model Types as an AI Stack](#aistack)
 2. [Large Language Models (LLMs): Providing the Fundamentals](#llm)
-3. [Generative AIs](#generative)
+3. [Generative AIs: Getting to Creating](#generative)
 4. [AI Agents](#aiagents)
 5. [Agentic AIs](#agentic)
 6. [Supplemental Resources](#supplemental)
@@ -40,10 +40,10 @@ LLMs can be mapped out in terms of seven steps:
 
 <hr />
 
-## 3. <a name="generative">Generative AIs</a>
+## 3. <a name="generative">Generative AIs: Getting to Creating</a>
 
-*Generative AIs* (Gen AIs) do not quite have independence, but they can take input and associated predictions and generate information from them by recognizing patterns and operating with consideration of latent spaces.
-
+*Generative AIs* (Gen AIs) do not quite have independence, but they do perform reactively: they take the input and associated predictions of LLMs and transform them, generating new, real-world applicable information (e.g., text, visuals, code) from them by recognizing/mapping patterns and operating by considering the representations of latent spaces.
+ 
 Gen AI can be mapped out in terms of seven steps:
 
 1) **Collecting Input/Initial Data**
@@ -52,7 +52,7 @@ Gen AI can be mapped out in terms of seven steps:
 4) **Content Creation**
 5) **Adaptation** (taking into consideration what was learned and relevant predictions)
 6) **Output Generation**
-7) **Feedback from Users**
+7) **Refining Based on User Feedback**
 
 <hr />
 
