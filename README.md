@@ -76,6 +76,16 @@ AI Agents can be mapped out in terms of seven steps:
 
 *Agentic AIs* emulate autonomous reasoning, and thus are quite complex: they plan and reach decisions (without human intervention) based on goals/outcomes, change course of action/strategy, artificially comprehend context and constraints/limits, and instantly orchestrate other AI tools.
 
+Agentic AIs can be mapped out in terms of seven steps:
+
+1) **A Goal is Put Forth**
+2) **Awareness of Context Occurs**
+3) **Logical Planning of Problem Solving**
+4) **Independent Execution**
+5) **Monitoring in Real-Time**
+6) **Changes are Made to Strategy/Action Plan**
+7) **Evaluation of if Outcome Matches Goal/Expectations**
+
 <hr />
 
 ## 6. <a name="supplemental">Supplemental Resources</a>
