@@ -5,7 +5,7 @@
 1. [Model Types as an AI Stack](#aistack)
 2. [Large Language Models (LLMs): Providing the Fundamentals](#llm)
 3. [Generative AIs: Getting to Creating](#generative)
-4. [AI Agents](#aiagents)
+4. [AI Agents: Handling The Intentions of Processes](#aiagents)
 5. [Agentic AIs](#agentic)
 6. [Supplemental Resources](#supplemental)
 
@@ -56,9 +56,11 @@ Gen AI can be mapped out in terms of seven steps:
 
 <hr />
 
-## 4. <a name="aiagents">AI Agents</a>
+## 4. <a name="aiagents">AI Agents: Handling The Intentions of Processes</a>
 
-*AI Agents* are structured around task/process goal-driven actions and intentions, branching beyond being simple prompt-response mechanisms. They use bult-in logic to determine users' objectives, gather data/results, and select APIs and other AI tools that make sense for problem solving.
+*AI Agents* are structured around actions/intentions and matching them with relevant tasks/processes. AI Agents branch beyond being simple prompt-response mechanisms: instead, they utilize sophisticated built-in logic to determine user objectives, gather data/results, and select APIs and other AI tools that make sense for problem solving.
+
+Although AI Agents build upon the functionalities of LLMs and Gen AIs by orchestrating achievement of desired outcomes, the tasks to be completed tend to be pre-defined. More complex problem solving ability is provided by Agentic AIs, as discussed in the next section.
 
 AI Agents can be mapped out in terms of seven steps:
 
