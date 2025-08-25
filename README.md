@@ -1,5 +1,9 @@
 # Four AI Model Types Overview
 
+**Description/Overview:** AI model types are more than just different approaches to artifical intelligence: in actuality, they are layers of a complete stack of artificial intelligence systems, flowing from the conceptually simplest, static and foundational AIs (raw language modeling mechanisms) that heavily rely on pre-defined prompts, to the most complex, dynamic, and autonomous (artificially aware of the context of their problems to solve, and with 'agency'). The potential for flexible workflow orchestration and data handling to solve nuanced problems becomes obvious.
+
+The four principle layers that this guide discusses include: Large Language Models (LLMs), Generative AIs ('Gen AIs'), AI Agents, and Agentic AIs. Whether you intend on developing primarily AI-based workflows, construction production-level AI-based systems, or establishing utilities/services that can function with little in the way of direct human or systems supervision, understanding the similarities and differences between the four AI model types of this guide is essential.
+
 #### Table of Contents
 
 1. [Model Types as an AI Stack](#aistack)
