@@ -6,7 +6,7 @@
 2. [Large Language Models (LLMs): Providing the Fundamentals](#llm)
 3. [Generative AIs: Getting to Creating](#generative)
 4. [AI Agents: Handling The Intentions of Processes](#aiagents)
-5. [Agentic AIs](#agentic)
+5. [Agentic AIs: Strong and Independent](#agentic)
 6. [Supplemental Resources](#supplemental)
 
 <hr />
@@ -74,10 +74,12 @@ AI Agents can be mapped out in terms of seven steps:
 
 <hr />
 
-## 5. <a name="agentic">Agentic AIs</a>
+## 5. <a name="agentic">Agentic AIs: Strong and Independent</a>
 
-*Agentic AIs* emulate autonomous reasoning, and thus are quite complex: they plan and reach decisions (without human intervention) based on goals/outcomes, change course of action/strategy, artificially comprehend context and constraints/limits, and instantly orchestrate other AI tools.
+*Agentic AIs* are the most complex and potentially powerful layer. They are proactive systems, and emulate autonomous reasoning (thus, behaving as AI agents): they plan and reach decisions (without human intervention) based on (sometimes complex/high-level) goals/outcomes, change course of action/strategy (they are self-correcting), artificially comprehend context and constraints/limits, and instantly orchestrate other AI tools (impressive potential for workflow automation!). 
 
+Agentic AIs are built to handle advanced goals by breaking them down into simpler/discrete steps, and then planning and executing those steps... and to do so with little in the way of reliance on humans or other systems.
+ 
 Agentic AIs can be mapped out in terms of seven steps:
 
 1) **A Goal is Put Forth**
